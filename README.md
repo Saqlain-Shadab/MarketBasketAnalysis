@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🧺 Market Basket Analysis
+## 🧺 Market Basket Analysis
 
 
 </div>
 
 
 **📌 Project Overview**  
-This project applies the **Apriori algorithm** to identify frequent itemsets and generate **association rules** from transaction data. The goal is to help businesses understand customer buying habits and optimize product placement, bundling, and cross-selling strategies.
+This project is Association Analysis with **Apriori algorithm** to identify frequent itemsets and generate **association rules** from transaction data. The goal is to help businesses understand customer buying habits and optimize product placement, bundling, and cross-selling strategies.
 
 ---
 **🎯 Objectives**
